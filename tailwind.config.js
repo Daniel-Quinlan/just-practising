@@ -7,6 +7,10 @@ module.exports = {
         background: "#171717",
         cardBG: "#f8fafc",
       },
+      fontFamily: {
+        roboto: "'Roboto', sans-serif",
+        ubuntu: "'Ubuntu', sans-serif",
+      },
     },
   },
   plugins: [],
